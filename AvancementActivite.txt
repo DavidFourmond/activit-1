@@ -1,0 +1,10 @@
+Openclassrooms - Cours Git/GitHub
+Activité 1
+
+Création du repo sur machine local : Fait
+Ajout du fichier README : Fait
+Création de deux fichiers : Fait
+Ajout des fichiers à l'index : Fait
+Commiter les modifs : Fait
+
+
