@@ -7,4 +7,6 @@ Création de deux fichiers : Fait
 Ajout des fichiers à l'index : Fait
 Commiter les modifs : Fait
 
+Finalisation : Commiter cette dernière étape et envoyer l'URL du repo 
+sur openclassrooms.
 
